@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  20 JUN 2026 10:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.19)  20 JUN 2026 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -863,24 +863,24 @@ Package babel Info: 'french' activates 'french' shorthands.
 )
 \openout1 = `PPT_OPTIMISATION.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -938,70 +938,70 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 158.
+Package hyperref Info: Link coloring OFF on input line 157.
 
 (./PPT_OPTIMISATION.out) (./PPT_OPTIMISATION.out)
 \@outlinefile=\write5
 \openout5 = `PPT_OPTIMISATION.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 158.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 157.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 158.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 157.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 158.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 158.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 157.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 158.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 158.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 158.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 157.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 158.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 158.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 158.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 157.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 158.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 158.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 158.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 157.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 158.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 158.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 157.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 158.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 157.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 158.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 158.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 158.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 158.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 158.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 157.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 158.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 158.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 157.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 157.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
 (Font)              `pureletters' in the math version `normal' on input line 15
-8.
+7.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 15
-8.
+7.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 158.
+(Font)              `pureletters' in the math version `bold' on input line 157.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 15
-8.
+7.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 158.
+ut line 157.
 
 (c:/texlive/2026/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
 glish.dict
@@ -1027,55 +1027,55 @@ Dictionary: translator-numbers-dictionary, Language: English
 English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \degres on input line 158.
+LaTeX Info: Redefining \degres on input line 157.
  (./PPT_OPTIMISATION.nav)
 Package babel Info: Main language set to 'french'.
 <logo_fsbm.png, id=37, 361.35pt x 140.525pt>
 File: logo_fsbm.png Graphic file (type png)
 <use logo_fsbm.png>
-Package pdftex.def Info: logo_fsbm.png  used on input line 165.
+Package pdftex.def Info: logo_fsbm.png  used on input line 164.
 (pdftex.def)             Requested size: 87.79544pt x 34.14322pt.
 <logo_master.png, id=38, 308.15125pt x 164.615pt>
 File: logo_master.png Graphic file (type png)
 <use logo_master.png>
-Package pdftex.def Info: logo_master.png  used on input line 165.
+Package pdftex.def Info: logo_master.png  used on input line 164.
 (pdftex.def)             Requested size: 63.91432pt x 34.14322pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 165.
+nput line 164.
 
 (c:/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 165.
+nput line 164.
 
 (c:/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 165.
+nput line 164.
 
 (c:/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 165.
+nput line 164.
 
 (c:/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 165.
+ input line 164.
 
 (c:/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <5> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 165.
+n input line 164.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
  [][][]\U/fontawesomefree0/solid/n/7 z \T1/cmss/m/n/7 Date :[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
  []\T1/cmss/bx/n/9 Juin 2026[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
  []\T1/cmss/m/n/5 Soutenance orale[]
  []
 
@@ -1092,11 +1092,11 @@ nds0.enc} <./logo_fsbm.png> <./logo_master.png>] [2
 ]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <100> not available
-(Font)              size <51.59> substituted on input line 215.
+(Font)              size <51.59> substituted on input line 213.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <100> not available
-(Font)              size <51.59> substituted on input line 215.
+(Font)              size <51.59> substituted on input line 213.
 
 [3
 
@@ -1105,19 +1105,19 @@ LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <100> not available
 ] [5
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 305
+LaTeX Font Info:    Trying to load font information for U+msa on input line 303
 .
  (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 305
+LaTeX Font Info:    Trying to load font information for U+msb on input line 303
 .
 
 (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 305.
+ut line 303.
 
 (c:/texlive/2026/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1128,11 +1128,11 @@ thkerncmss.
 ]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <26> not available
-(Font)              size <24.88> substituted on input line 333.
+(Font)              size <24.88> substituted on input line 331.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <26> not available
-(Font)              size <24.88> substituted on input line 333.
+(Font)              size <24.88> substituted on input line 331.
 
 [7
 
@@ -1140,7 +1140,7 @@ LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <26> not available
 <schema_global_arch.png, id=149, 860.013pt x 173.448pt>
 File: schema_global_arch.png Graphic file (type png)
 <use schema_global_arch.png>
-Package pdftex.def Info: schema_global_arch.png  used on input line 367.
+Package pdftex.def Info: schema_global_arch.png  used on input line 365.
 (pdftex.def)             Requested size: 226.32762pt x 45.6459pt.
  [8
 
@@ -1148,7 +1148,7 @@ Package pdftex.def Info: schema_global_arch.png  used on input line 367.
 <schema_exp_pipeline.png, id=182, 715.473pt x 281.853pt>
 File: schema_exp_pipeline.png Graphic file (type png)
 <use schema_exp_pipeline.png>
-Package pdftex.def Info: schema_exp_pipeline.png  used on input line 395.
+Package pdftex.def Info: schema_exp_pipeline.png  used on input line 393.
 (pdftex.def)             Requested size: 230.67004pt x 90.87001pt.
  [9
 
@@ -1158,7 +1158,7 @@ Package pdftex.def Info: schema_exp_pipeline.png  used on input line 395.
 <final_metrics_comparison.png, id=208, 1011.78pt x 722.7pt>
 File: final_metrics_comparison.png Graphic file (type png)
 <use final_metrics_comparison.png>
-Package pdftex.def Info: final_metrics_comparison.png  used on input line 455.
+Package pdftex.def Info: final_metrics_comparison.png  used on input line 453.
 (pdftex.def)             Requested size: 200.20645pt x 143.00461pt.
 
 [11
@@ -1167,7 +1167,7 @@ Package pdftex.def Info: final_metrics_comparison.png  used on input line 455.
 <loss_curves.png, id=227, 1011.78pt x 361.35pt>
 File: loss_curves.png Graphic file (type png)
 <use loss_curves.png>
-Package pdftex.def Info: loss_curves.png  used on input line 484.
+Package pdftex.def Info: loss_curves.png  used on input line 482.
 (pdftex.def)             Requested size: 252.4349pt x 90.15532pt.
  [12
 
@@ -1177,7 +1177,7 @@ Package pdftex.def Info: loss_curves.png  used on input line 484.
 <lr_sensitivity.png, id=252, 1011.78pt x 361.35pt>
 File: lr_sensitivity.png Graphic file (type png)
 <use lr_sensitivity.png>
-Package pdftex.def Info: lr_sensitivity.png  used on input line 539.
+Package pdftex.def Info: lr_sensitivity.png  used on input line 537.
 (pdftex.def)             Requested size: 243.72758pt x 87.04556pt.
  [14
 
@@ -1185,7 +1185,7 @@ Package pdftex.def Info: lr_sensitivity.png  used on input line 539.
 <batch_size_stability.png, id=271, 1300.86pt x 361.35pt>
 File: batch_size_stability.png Graphic file (type png)
 <use batch_size_stability.png>
-Package pdftex.def Info: batch_size_stability.png  used on input line 564.
+Package pdftex.def Info: batch_size_stability.png  used on input line 562.
 (pdftex.def)             Requested size: 243.73201pt x 67.70332pt.
  [15
 
@@ -1193,7 +1193,7 @@ Package pdftex.def Info: batch_size_stability.png  used on input line 564.
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 602.
+n input line 600.
  [16
 
 ]
