@@ -75,14 +75,14 @@ The project presents a rigorous empirical comparison of **five gradient descent 
 ```
 projet16-adaptive-gradient-methods-nlp/
 │
-├── 📓 FINALE_Study_of_Adaptive_Gradient_Methods_in_NLP.ipynb
-│       └── Complete reproducible benchmark notebook (Google Colab / Jupyter)
+├── 📄 FINAL_REPORT.docx
+│       └── Full academic report
 │
-├── 📄 Projet16_Adaptive_Gradient_Methods_Final_Report.docx
-│       └── Full academic report (~14 pages, English)
-│
-├── 📄 Projet16_Adaptive_Gradient_Methods_Final_Report.pdf
+├── 📄 FINAL_REPORT.pdf
 │       └── PDF version of the academic report
+│
+├── 📊 PRESENTATION_OPTIMISATION.pptx
+│       └── Final PowerPoint presentation for defense
 │
 ├── results/
 │   ├── main_benchmark_results.csv       ← 5 optimizers × 9 metrics
