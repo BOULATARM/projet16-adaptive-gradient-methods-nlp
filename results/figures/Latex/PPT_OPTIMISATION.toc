@@ -1,0 +1,7 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Contexte \& Problématique}{3}{0}{1}
+\beamer@sectionintoc {2}{Optimiseurs Étudiés}{5}{0}{2}
+\beamer@sectionintoc {3}{Méthodologie \& Architecture}{7}{0}{3}
+\beamer@sectionintoc {4}{Résultats Principaux}{10}{0}{4}
+\beamer@sectionintoc {5}{Analyses de Sensibilité}{13}{0}{5}
+\beamer@sectionintoc {6}{Conclusion \& Recommandations}{16}{0}{6}
